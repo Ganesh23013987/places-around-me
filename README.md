@@ -10,9 +10,9 @@ Open the <html> tag.
 Inside the <html> tag, add a <title> tag to set the title of the page.
 Close the <html> tag.
 ### Step 2: Body Section:
-Open the body tag.
-Add an h1 tag for the heading.
-Insert an img tag with the src attribute pointing to an image file, and use the usemap attribute to associate an image map.
+Open the <body> tag.
+Add an <h1> tag for the heading.
+Insert an <img> tag with the src attribute pointing to an image file, and use the usemap attribute to associate an image map.
 ### step 3: Image Map:
 Define a <map> tag with the name attribute set to "image_map."
 Inside the <map> tag, use <area> tags to define clickable areas on the image.
