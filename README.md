@@ -34,11 +34,11 @@ End program.
     <h1>imagemaps demo</h1>
     <img src="map.jpg" usemap="#image_map">
     <map name="image_map">
-      <area alt="Railway st" title="Railway st" href="st.html" coords="949,275,1165,360" shape="rect">
-      <area alt="MCC" title="MCC" href="C.html" coords="773,393,1102,507" shape="rect">
-      <area alt="Arul Hosp" title="Arul Hosp" href="hosp.html" coords="5,416,168,513" shape="rect">
-      <area alt="National Th" title="National Th" href="th.html" coords="663,184,903,258" shape="rect">
-      <area alt="GRT jWs" title="GRT jws" href="jws.html" coords="1010,-94,1199,13" shape="rect">
+      <area alt="Railway station" title="Railway station" href="station.html" coords="949,275,1165,360" shape="rect">
+      <area alt="Madras christian college" title="Madras christian college" href="college.html" coords="773,393,1102,507" shape="rect">
+      <area alt="Arul hospital" title="Arul hospital" href="hospital.html" coords="5,416,168,513" shape="rect">
+      <area alt="National theatre" title="National theatre" href="theatre.html" coords="663,184,903,258" shape="rect">
+      <area alt="GRT jeWellers" title="GRT jewellers" href="jewellers.html" coords="1010,-94,1199,13" shape="rect">
     </map>
 </body>
 ```
