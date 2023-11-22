@@ -5,7 +5,7 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1: HTML Document Structure:
-Use the <!DOCTYPE html> declaration to specify the document type.
+Use the !DOCTYPE html declaration to specify the document type.
 Open the html tag.
 Inside the html tag, add a title tag to set the title of the page.
 Close the html tag.
