@@ -17,10 +17,10 @@ Insert an img tag with the src attribute pointing to an image file, and use the 
 Define a map tag with the name attribute set to "image_map."
 Inside the map tag, use <area> tags to define clickable areas on the image.
 Each area tag should have attributes like alt, title, href, coords, and shape to specify the details of the clickable area.
-### step 4:Close HTML Tags:
+### step 4: Close HTML Tags:
 Close the body tag.
 Optionally, close the HTML document.
-These steps outline the basic structure of your HTML program with an image map.
+These steps outline the basic structure of my HTML program with an image map.
 ### step 5:
 End program.
 
