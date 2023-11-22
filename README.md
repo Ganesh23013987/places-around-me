@@ -6,19 +6,19 @@ To develop a website to display details about the places around my house.
 
 ### Step 1: HTML Document Structure:
 Use the <!DOCTYPE html> declaration to specify the document type.
-Open the <html> tag.
-Inside the <html> tag, add a <title> tag to set the title of the page.
-Close the <html> tag.
+Open the html tag.
+Inside the html tag, add a title tag to set the title of the page.
+Close the html tag.
 ### Step 2: Body Section:
-Open the <body> tag.
-Add an <h1> tag for the heading.
-Insert an <img> tag with the src attribute pointing to an image file, and use the usemap attribute to associate an image map.
+Open the body tag.
+Add an h1 tag for the heading.
+Insert an img tag with the src attribute pointing to an image file, and use the usemap attribute to associate an image map.
 ### step 3: Image Map:
-Define a <map> tag with the name attribute set to "image_map."
-Inside the <map> tag, use <area> tags to define clickable areas on the image.
-Each <area> tag should have attributes like alt, title, href, coords, and shape to specify the details of the clickable area.
+Define a map tag with the name attribute set to "image_map."
+Inside the map tag, use <area> tags to define clickable areas on the image.
+Each area tag should have attributes like alt, title, href, coords, and shape to specify the details of the clickable area.
 ### step 4:Close HTML Tags:
-Close the <body> tag.
+Close the body tag.
 Optionally, close the HTML document.
 These steps outline the basic structure of your HTML program with an image map.
 ### step 5:
