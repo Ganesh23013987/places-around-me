@@ -52,12 +52,16 @@ End program.
 
 # Railway station.html
 <img width="960" alt="railway output" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/6b34f7ff-b048-404d-94f4-464e1cb7da72">
+
 # College.html
 <img width="959" alt="mcc ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/e681a574-38ec-4cf2-ac2c-35d2902c3899">
+
 # Theatre.html
 <img width="932" alt="theatre ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/a8a47541-5357-4150-9439-1bd198b211b6">
+
 # GRT jewellers.html
 <img width="960" alt="grt ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/43ddbfe9-cc9f-4447-b5b8-1689d6d21522">
+
 # Hospital.html
 <img width="956" alt="hospital ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/1285e798-e2a6-4c93-8186-ef2e4a0dcb4a">
 
