@@ -59,7 +59,7 @@ End program.
 # Theatre.html
 <img width="932" alt="theatre ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/a8a47541-5357-4150-9439-1bd198b211b6">
 
-# GRT jewellers.html
+# Jewellers.html
 <img width="960" alt="grt ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/43ddbfe9-cc9f-4447-b5b8-1689d6d21522">
 
 # Hospital.html
