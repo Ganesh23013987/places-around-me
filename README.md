@@ -32,21 +32,20 @@ End program.
 </html>
 <body>
     <h1>imagemaps demo</h1>
-    <img src="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\Ganesh D.png" usemap="#image_map">
-    <map name="image_map">
-	<h2>Railway station</h2>
-    <area alt="Railway station"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\railway station.png" coords="949,275,1165,360" shape="rect">
+          <img src="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\Ganesh D.png" usemap="#image_map">
+          <map name="image_map">
+    <h2>Railway station</h2>
+          <area alt="Railway station"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\railway station.png" coords="949,275,1165,360" shape="rect">
     <h3>Madras christian college</h3>
-	  <area alt="Madras christian college"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\mcc.png" coords="773,393,1102,507" shape="rect">
+          <area alt="Madras christian college"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\mcc.png" coords="773,393,1102,507" shape="rect">
     <h4>Arul Hospital</h4>
-	  <area alt="Arul Hospital"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\hospital.png" coords="5,416,168,513" shape="rect">
+          <area alt="Arul Hospital"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\hospital.png" coords="5,416,168,513" shape="rect">
     <h5>National Theatre</h5>
-	  <area alt="National Theatre"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\theatre.png" coords="663,184,903,258" shape="rect">
-	<h6>GRT jewellers</h6>
-	  <area alt="GRT jewellers"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\grt.png" coords="1010,-94,1199,13" shape="rect">
+          <area alt="National Theatre"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\theatre.png" coords="663,184,903,258" shape="rect">
+    <h6>GRT jewellers</h6>
+          <area alt="GRT jewellers"  href="c:\Users\BSS\Pictures\Camera Roll\Saved Pictures\grt.png" coords="1010,-94,1199,13" shape="rect">
     </map>
 </body>
-
 ```
 ## Output:
 <img width="940" alt="imagemap output" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/a8b0515c-4bf2-4158-9ec7-2c844be742c7">
