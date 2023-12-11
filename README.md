@@ -49,10 +49,10 @@ End program.
 ```
 ## Output:
 # Map.html:
-                                                                     'My Area'
+                                                                'My Area'
 <img width="940" alt="imagemap output" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/a8b0515c-4bf2-4158-9ec7-2c844be742c7">
  
-                                          In this map consists some places are located near in my house.
+                                         In this map consists some places are located near in my house.
  
 # Railway station.html
 <img width="960" alt="railway output" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/6b34f7ff-b048-404d-94f4-464e1cb7da72">
