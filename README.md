@@ -56,7 +56,8 @@ End program.
  
 # Railway station.html
 <img width="960" alt="railway output" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/6b34f7ff-b048-404d-94f4-464e1cb7da72">
-Tambaram railway station is located near my house.
+                                         
+                                              Tambaram railway station is located near my house.
 
 # About details:
 
@@ -64,7 +65,8 @@ Tambaram Railway Station stands as a crucial transportation nexus in the souther
 
 # College.html
 <img width="959" alt="mcc ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/e681a574-38ec-4cf2-ac2c-35d2902c3899">
-Madras christian college is located near my house. 
+
+                                             Madras christian college is located near my house. 
 
 # About details:
 
@@ -72,7 +74,8 @@ MCC College, formally known as Madras Christian College, is a venerable institut
 
 # Theatre.html
 <img width="932" alt="theatre ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/a8a47541-5357-4150-9439-1bd198b211b6">
-National theatre is located near my house.
+
+                                                National theatre is located near my house.
 
 # About details:
 
@@ -80,7 +83,8 @@ The National Theatre, often considered a cultural cornerstone in many countries,
 
 # Jewellers.html
 <img width="960" alt="grt ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/43ddbfe9-cc9f-4447-b5b8-1689d6d21522">
-GRT jewellers is located near my house.
+
+                                                 GRT jewellers is located near my house.
 
 # About details:
 
@@ -88,7 +92,8 @@ GRT Jewellers in Tambaram is a celebrated destination for discerning jewelry ent
 
 # Hospital.html
 <img width="956" alt="hospital ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/1285e798-e2a6-4c93-8186-ef2e4a0dcb4a">
-Arul hospital is located near my house.
+
+                                                Arul hospital is located near my house.
 
 # About details:
 
