@@ -93,7 +93,7 @@ GRT Jewellers in Tambaram is a celebrated destination for discerning jewelry ent
 # Hospital.html
 <img width="956" alt="hospital ot" src="https://github.com/Ganesh23013987/places-around-me/assets/147473768/1285e798-e2a6-4c93-8186-ef2e4a0dcb4a">
 
-                          Arul hospital is located near my house.
+                                    Arul hospital is located near my house.
 
 # About details:
 
